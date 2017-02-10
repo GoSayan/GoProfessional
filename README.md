@@ -23,4 +23,6 @@ Add your suggestion for projects and your feedback to the GoSayan Slack channel.
 - [The GoDocker Template Project Repository](https://github.com/GoSayan/GoDocker)
 - [The GoDataScience Template Project Repository](https://github.com/GoSayan/GoDataScience)
 
-If you would like to moderate any of these projects please let us know on the **gosayan** slack channel
+If you would like to moderate any of these projects please let us know on the **gosayan** slack channel. 
+
+If you decide to collaborate or contribute to one of the project, it would be greate to create project template with subdirectories that follow the best-practice :) 
