@@ -20,5 +20,6 @@ Add your suggestion for projects and your feedback to the GoSayan Slack channel.
 - [The GoMessaging Template Project Repository](https://github.com/GoSayan/GoMessaging)
 - [The GoWeb Template Project Repository](https://github.com/GoSayan/GoWeb)
 - [The GoNetworking Template Project Repository](https://github.com/GoSayan/GoNetworking)
+- [The GoDocker Template Project Repository](https://github.com/GoSayan/GoDocker)
 
 If you would like to moderate any of these projects please let us know on the **gosayan** slack channel
