@@ -5,6 +5,8 @@ Go is great language with an awesome community. A community that ranges from beg
 The idea here is to get experts from the community to review the code for the projects we develop. Some of us will have more knoweldge in Go than the others which is even better. The goal is to come up with coding projects (repositories under https://github.com/GoSayan ). And then code it together taking into consideration good patterns and incorporating topics such as:
 - CI / CD
 - Messaging
+- Networking
+- Web developement
 - API developement or usage
 - DBMS
 - ... and more
