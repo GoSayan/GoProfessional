@@ -10,3 +10,13 @@ The idea here is to get experts from the community to review the code for the pr
 - ... and more
 
 Add your suggestion for projects and your feedback to the GoSayan Slack channel. 
+
+### Below are some project templates 
+
+- [The GoDB Template Project Repository](https://github.com/GoSayan/GoDB)
+- [The GoTesting Template Project Repository](https://github.com/GoSayan/GoTesting)
+- [The GoMessaging Template Project Repository](https://github.com/GoSayan/GoMessaging)
+- [The GoWeb Template Project Repository](https://github.com/GoSayan/GoWeb)
+- [The GoNetworking Template Project Repository](https://github.com/GoSayan/GoNetworking)
+
+If you would like to moderate any of these projects please let us know on the *gosayan* slack channel
