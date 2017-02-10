@@ -1,4 +1,4 @@
-# GoPro
+# GoProfessional
 
 Go is great language with an awesome community. A community that ranges from beginners to pros. Thinking a bit about it, I thought why not use some free time to harness our Go skills and GoPro :).
 
