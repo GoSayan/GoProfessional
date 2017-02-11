@@ -13,15 +13,30 @@ The idea here is to get experts from the community to review the code for the pr
 
 Add your suggestion for projects and your feedback to the GoSayan Slack channel. 
 
-### Below are some project templates 
+## Below are some project templates 
 
+#### Docker
+- [The GoDockerDeploy Template Project Repository](https://github.com/GoSayan/GoDockerDeploy)
+
+#### DB 
 - [The GoDB Template Project Repository](https://github.com/GoSayan/GoDB)
+
+#### CI/CD
 - [The GoTesting Template Project Repository](https://github.com/GoSayan/GoTesting)
+
+#### Messaging
 - [The GoMessaging Template Project Repository](https://github.com/GoSayan/GoMessaging)
+
+#### Web Developement  
 - [The GoWeb Template Project Repository](https://github.com/GoSayan/GoWeb)
+
+#### Networking 
 - [The GoNetworking Template Project Repository](https://github.com/GoSayan/GoNetworking)
-- [The GoDocker Template Project Repository](https://github.com/GoSayan/GoDocker)
+
+#### Datascience
 - [The GoDataScience Template Project Repository](https://github.com/GoSayan/GoDataScience)
+
+
 
 If you would like to moderate any of these projects please let us know on the **gosayan** slack channel. 
 
