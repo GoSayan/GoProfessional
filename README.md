@@ -13,7 +13,9 @@ The idea here is to get experts from the community to review the code for the pr
 
 Add your suggestion for projects and your feedback to the GoSayan Slack channel. 
 
+
 ## Below are some project templates 
+Each repository belonging to the same topic should have the same topic tag. For example, repository "GoDockerDeploy" has the tags #golang and #docker. For DB related projects the tags should be #golang #databases for example. 
 
 #### Docker
 - [The GoDockerDeploy Template Project Repository](https://github.com/GoSayan/GoDockerDeploy)
